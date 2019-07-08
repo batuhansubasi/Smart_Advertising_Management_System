@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "614572468407",
+    "firebase_url": "https://myfirebaseapp-c4c49.firebaseio.com",
+    "project_id": "myfirebaseapp-c4c49",
+    "storage_bucket": "myfirebaseapp-c4c49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614572468407:android:b1b415e226434440",
+        "android_client_info": {
+          "package_name": "com.batuhansubasi.akillireklamyonetimsistemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614572468407-ja45r1iag225u56qc6hmlqhrp20ul3c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZcu-qUe-e9IWedCDgopSxwQzIfEYVOwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614572468407-ja45r1iag225u56qc6hmlqhrp20ul3c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
