@@ -1,6 +1,6 @@
 # Smart Advertising Management System
 
-suggesting place using gps location, google firestore, android
+suggesting place using gps location, google firestore, android, cloud
 
 
 ## Features
